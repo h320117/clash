@@ -1,2 +1,2 @@
 # clash
-clash分流规则
+clash自用分流规则
