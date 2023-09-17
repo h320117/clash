@@ -1,8 +1,0 @@
-# 代理补充列表
-
-# 域名后缀匹配
-DOMAIN-SUFFIX,yattazen.com
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
-# IP段匹配
-IP-CIDR,13.32.0.0/15,no-resolve
