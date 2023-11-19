@@ -3,6 +3,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,bard.google.com
 # 域名关键字匹配
-DOMAIN-KEYWORD,001
+DOMAIN-KEYWORD,google
 # IP段匹配
 IP-CIDR,13.32.0.0/15,no-resolve
